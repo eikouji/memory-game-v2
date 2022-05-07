@@ -22,8 +22,9 @@ setTimeout()
 # Pinpoints of this project #
 Within 4 minutes of production, I decided I wanted this memory game to feature animals and the backs of the cards to be cameras or safari hats or binoculars, or maybe just a picture of different paw prints. 
 
-All visual elements of this game are designed by me. The challenge here is learning how to use images in the right formats to make sure they are just as responsive as the website is gonna be.
+My goal is to have all visual elements of this game are designed by me. The challenge here is learning how to use images in the right formats to make sure they are just as responsive as the website is gonna be.
 
+If I run out of time, or think actual photographs are better suited, I have some high quality photos I will use instead of icons, or vector drawings. 
 
 # Image of Game #
 
