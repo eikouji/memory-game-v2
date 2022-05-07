@@ -1,0 +1,28 @@
+Animals List
+First List: 
+1. Snake 
+
+2. Lion / Tiger
+
+3. Flamingo
+
+4. Leaf Cutter Ant
+
+5. Penguin
+
+2nd List
+
+6. Crocodile
+
+7. Ostrich
+
+8. Zebra
+
+9. Hyena
+
+10. Venus Fly Trap
+
+
+
+
+
